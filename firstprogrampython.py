@@ -5,3 +5,5 @@ while count<=n:
     sum=sum+count
     count+=1
 print(sum)
+
+print("sum")
